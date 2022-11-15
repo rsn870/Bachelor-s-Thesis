@@ -1,2 +1,2 @@
 # Bachelor's Thesis
-Hosting a pdf version of my bachelor's thesis which involved generating lip to speech in the latent speech of a pretrained StyleGAN
+Hosting a pdf version of my bachelor's thesis which involved generating videos that are in sync with a given audio segment. This involved a novel architecture trained on top of the latent space of a pretrained StyleGAN (FFHQ). The details are in the pdf of the thesis and a set of slides that I presented during my viva.
